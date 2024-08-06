@@ -1,2 +1,2 @@
 # Hello-World-from-Me
-// From humble beginnings we now creae our destiny only limited by our imagination! 
+// From humble beginnings we now create our destiny only limited by our imagination! 
